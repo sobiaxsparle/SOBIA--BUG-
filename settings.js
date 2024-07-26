@@ -23,7 +23,7 @@ global.themeemoji = '🪀'
 global.wm = "SOBIA BUTT"
 
 //theme link
-global.link = 'https://wa.me/+92251869133'
+global.link = 'https://wa.me/+923251869133'
 
 //custom prefix
 global.prefa = ['','!','.','#','&']
