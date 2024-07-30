@@ -4,15 +4,15 @@ const fs = require('fs')
 const chalk = require('chalk')
 
 //contact details
-global.ownernomer = "92251869133"
+global.ownernomer = "971 56 352 7204"
 global.ownername = "Sobiabutt133"
 global.ytname = "SOBIABUTT133"
 global.socialm = "GitHub: Um4r719"
 global.location = "Chaklala Scheme 3 Rawalpindi,Pakistan"
 
-global.ownernumber = '923251869133'  //creator number
+global.ownernumber = '971 56 352 7204'  //creator number
 global.ownername = 'SOBIA 💛' //owner name
-global.botname = 'SOBIA 𝘽𝙐𝙂' //name of the bot
+global.botname = 'SOBIA 𝘽𝙐𝙂' //name of thSOBIA BUG BOT e bot
 
 //sticker details
 global.packname = 'Sticker By'
@@ -23,7 +23,7 @@ global.themeemoji = '🪀'
 global.wm = "SOBIA BUTT"
 
 //theme link
-global.link = 'https://wa.me/+923251869133'
+global.link = 'https://wa.me/+971 56 352 7204'
 
 //custom prefix
 global.prefa = ['','!','.','#','&']
@@ -53,10 +53,10 @@ global.bimg = '//9j/4AAQSkZJRgABAQAAAQABAAD/4gIoSUNDX1BST0ZJTEUAAQEAAAIYAAAAAAQw
 //reply messages
 global.mess = {
     done: 'Done !',
-    prem: 'Teri Bhen ka Faluda This feature can be used by premium user only',
-    admin: 'Lund k bache This feature can be used by admin only',
-    botAdmin: 'Gandu This feature can only be used when the bot is a group admin ',
-    owner: 'Lun tai wajh This feature can be used by owner only',
+    prem: 'SOBIA BUG  This feature can be used by premium user only',
+    admin: ' This feature can be used by admin only',
+    botAdmin: ' This feature can only be used when the bot is a group admin ',
+    owner: ' This feature can be used by owner only',
     group: 'This feature is only for groups',
     private: 'This feature is only for private chats',
     wait: 'In process... ',    
